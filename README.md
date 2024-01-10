@@ -5,7 +5,7 @@
 * JavaScript é uma linguagem de script versátil, capaz de manipular o conteúdo da página, responder a eventos do usuário e interagir com servidores para atualizações dinâmicas. <br>
 * Ela desempenha um papel fundamental na construção de experiências interativas e dinâmicas na web.
 
-  # Exercício 1
+  # *[Exercício 1 ](https://github.com/ByancaMatos01/javascript/tree/main/Javascript)*
    * Escrever olá mundo e aprender usar três funções basicas window.alert() para alertar coisas antes de carregar a página.<br>
    ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/25bf8e15-9256-4620-b879-067e38e236bd)
    * window.confirm() utilizado para confirmar uma mensagem
