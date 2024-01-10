@@ -1,5 +1,5 @@
 # Curso de javascript 
-# Descricão
+# Descrição
 * JavaScript é uma linguagem de programação amplamente utilizada para desenvolvimento web. <br>
 * Ela é executada nos navegadores dos usuários e permite a criação de páginas interativas.<br>
 * JavaScript é uma linguagem de script versátil, capaz de manipular o conteúdo da página, responder a eventos do usuário e interagir com servidores para atualizações dinâmicas. <br>
