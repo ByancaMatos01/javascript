@@ -14,5 +14,9 @@
     ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/1af6283c-ee6d-4458-865d-e52ea887255d)
 
     # Aula 2 **Manipualação de dados**
-    
+
+ # Exercicio 1
+  * Utiliza var que é armazenar o dados através de uma váriavel, e concatena com uma mensagem de boas vindas 
+  
+
     
