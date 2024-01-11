@@ -27,11 +27,16 @@
 
 * Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
 mensagem explicativa, conforme exemplos.
+![image](https://github.com/ByancaMatos01/javascript/assets/122841376/f4712381-c8a2-4e35-800c-559018b567c3)
+![image](https://github.com/ByancaMatos01/javascript/assets/122841376/fa77be62-2d7f-4790-8ea2-122b44fc6011)
 * Foi utilizado o comando de converter para number.parseInt()==> para inteiros
 *  Ou number.parseFloat()==> para números reais
 *  Também a formas simplificadas apenas utilizando Number()
-*  para String utiliza-se String() ou toString()
-* 
+*  Para String utiliza-se String() ou toString()
+![image](https://github.com/ByancaMatos01/javascript/assets/122841376/3dbeb1df-53db-40ea-854b-236e5eb6c123)
+
+  
+
 
 
 
