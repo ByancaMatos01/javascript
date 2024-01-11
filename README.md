@@ -18,15 +18,21 @@
  # Exercicio 1
   * Utiliza var que é armazenar o dados através de uma váriavel, e concatena com uma mensagem de boas vindas
   * foi utilizado o comando window.prompt()
- 
-  ## Tabela de Dados
-
-| Entrada  | Saida  | 
-|----------|--------
-| byanca   |prazer em te conhecer byanca |
 
 ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/c9e7cafe-9dd0-4318-8df3-692f24f9a4d4)
 ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/b8b56a02-1f63-418c-8fab-b705c7994593)
+
+
+# *[Exercício 3]*
+
+* Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
+mensagem explicativa, conforme exemplos.
+* Foi utilizado o comando de converter para number.parseInt()==> para inteiros
+*  Ou number.parseFloat()==> para números reais
+*  Também a formas simplificadas apenas utilizando Number()
+*  para String utiliza-se String() ou toString()
+* 
+
 
 
     
