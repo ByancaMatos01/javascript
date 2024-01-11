@@ -38,7 +38,7 @@ mensagem explicativa, conforme exemplos. <br>
 * Tratando Strings, neste exercicios utilizamos document.write() para escrever na tela aquilo que usuario digitava pelo window.prompt()
 * Foi utilizado a função toUpperCase() para deixar tudo em maíusculo
 * Também foi utilizado a função toLowerCase() para deixar tudo em minúsculo
-*  E a função length para contar as strings
+*  E a função length para contar as strings <br>
 ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/b5e36642-d9fb-4711-a8bd-4dcb0f385993)
 
 # Formatando number 
