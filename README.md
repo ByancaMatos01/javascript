@@ -34,6 +34,14 @@ mensagem explicativa, conforme exemplos. <br>
 *  Para String utiliza-se String() ou toString() <br>
 ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/3dbeb1df-53db-40ea-854b-236e5eb6c123)
 
+# Exercicio 3
+* Tratando Strings, neste exercicios utilizamos document.write() para escrever na tela aquilo que usuario digitava pelo window.prompt()
+* Foi utilizado a função toUpperCase() para deixar tudo em maíusculo
+* Também foi utilizado a função toLowerCase() para deixar tudo em minúsculo
+*  E a função length para contar as strings
+
+
+
   
 
 
