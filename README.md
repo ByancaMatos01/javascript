@@ -47,7 +47,7 @@ mensagem explicativa, conforme exemplos. <br>
 * Junto com replace('.',',') troca o ponto pela virgula
 * E foi aprendido o comando tolocale('pt-Br', {style 'currency', currency: 'BL'}) para utilizar o estilo de moeda do pais
 
-  #  Aula de DOM
+  #  *[Aula de DOM ](https://github.com/ByancaMatos01/javascript/tree/main/aula03)*
   
   # Descrição 
   * Document Model Object é a vertente do JavaScript, pro qual a linguagem foi criada. <br>
@@ -70,7 +70,7 @@ mensagem explicativa, conforme exemplos. <br>
 *  querySelector e para pegar por seleção
 *  Usamos . para div e # para classe no seletor. <br>
 
-# Exercicio 1 
+# *[Exercício 1 ](https://github.com/ByancaMatos01/javascript/blob/main/aula03/exerc1.html)*
 * Exercicio para testar estrutura arvore basica do DOM
     ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/ce328235-f9b2-4d59-bec3-c475fe85688e)
 
