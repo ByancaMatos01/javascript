@@ -13,5 +13,6 @@
   * E window.prompt() permite que voce escreva em uma pequena caixa de texto.
     ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/1af6283c-ee6d-4458-865d-e52ea887255d)
 
-    # Exercício 2
+    # Aula 2 **Manipualação de dados**
+    
     
