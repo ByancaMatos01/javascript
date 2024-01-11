@@ -23,8 +23,7 @@
 ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/b8b56a02-1f63-418c-8fab-b705c7994593)
 
 
-# *[Exercício 3]*
-
+# Exercício 2 
 * Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
 mensagem explicativa, conforme exemplos.
 ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/f4712381-c8a2-4e35-800c-559018b567c3)
