@@ -47,18 +47,19 @@ mensagem explicativa, conforme exemplos. <br>
 * Junto com replace('.',',') troca o ponto pela virgula
 * E foi aprendido o comando tolocale('pt-Br', {style 'currency', currency: 'BL'}) para utilizar o estilo de moeda do pais
 
-  # DOM
+  #  Aula de DOM
+  
   # Descrição 
   * Document Model Object é a vertente do JavaScript, pro qual a linguagem foi criada. <br>
   * Conjunto de objetos dentro do navegador que vai dar acesso aos componentes internos do web site
   * Começa na raiz (window)
   <div> Pode ser Selecionado por: </div>
-  <ul>Marca </ul>
+  <ul> Marca </ul>
   <ul> Id</ul>
   <ul> Nome </ul>
   <ul> Classe</ul>
   <ul> Seletor</ul>
-# Comandos aprendidos 
+# Comandos Básicos 
 * Os comandos aprendidos foram document.body() dentro de uma var voce pode alterar o que estiver na parte body do html
 * Para pegar um elemento por tag utilizamos document.getElementsByTagName()==> coloca a tag e se tiver mais de uma ao lado colocar [] e numero de qual quer
 * innerText pega o que está escrito do elemento que voce quer exemplo: p1.innerText
