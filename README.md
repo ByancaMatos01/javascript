@@ -48,7 +48,31 @@ mensagem explicativa, conforme exemplos. <br>
 * E foi aprendido o comando tolocale('pt-Br', {style 'currency', currency: 'BL'}) para utilizar o estilo de moeda do pais
 
   # DOM
-  *
+  # Descrição 
+  * Document Model Object é a vertente do JavaScript, pro qual a linguagem foi criada. <br>
+  * Conjunto de objetos dentro do navegador que vai dar acesso aos componentes internos do web site
+  * Começa na raiz (window)
+  <div> Pode ser Selecionado por: </div>
+  <ul>Marca </ul>
+  <ul> Id</ul>
+  <ul> Nome </ul>
+  <ul> Classe</ul>
+  <ul> Seletor</ul>
+# Comandos aprendidos 
+* Os comandos aprendidos foram document.body() dentro de uma var voce pode alterar o que estiver na parte body do html
+* Para pegar um elemento por tag utilizamos document.getElementsByTagName()==> coloca a tag e se tiver mais de uma ao lado colocar [] e numero de qual quer
+* innerText pega o que está escrito do elemento que voce quer exemplo: p1.innerText
+* Ou para pegar com a configurações HTML innerHTML
+* getElementById para pegar elemento por id 
+* getElementByName para pegar o elemento por nome 
+* getElementByClassName para pegar o elemento por classe
+*  querySelector e para pegar por seleção
+*  Usamos . para div e # para classe no seletor. <br>
+
+# Exercicio 1 
+* Exercicio para testar estrutura arvore basica do DOM
+    ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/ce328235-f9b2-4d59-bec3-c475fe85688e)
+
  
 
 
