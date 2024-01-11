@@ -15,7 +15,7 @@
 
     # Aula 2 **Manipualação de dados**
 
- # Exercicio 1
+ # # *[Exercício 1 ](https://github.com/ByancaMatos01/javascript/blob/main/aula02/exerc01.html)*
   * Utiliza var que é armazenar o dados através de uma váriavel, e concatena com uma mensagem de boas vindas
   * foi utilizado o comando window.prompt()
 
@@ -23,7 +23,7 @@
 ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/b8b56a02-1f63-418c-8fab-b705c7994593)
 
 
-# Exercício 2 
+ # *[Exercício 2 ](https://github.com/ByancaMatos01/javascript/blob/main/aula02/exerc02.html)*
 * Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
 mensagem explicativa, conforme exemplos. <br>
 ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/f4712381-c8a2-4e35-800c-559018b567c3)
@@ -34,7 +34,7 @@ mensagem explicativa, conforme exemplos. <br>
 *  Para String utiliza-se String() ou toString() <br>
 ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/3dbeb1df-53db-40ea-854b-236e5eb6c123)
 
-# Exercicio 3
+# *[Exercício 3 ](https://github.com/ByancaMatos01/javascript/blob/main/aula02/exerc03.html)*
 * Tratando Strings, neste exercicios utilizamos document.write() para escrever na tela aquilo que usuario digitava pelo window.prompt()
 * Foi utilizado a função toUpperCase() para deixar tudo em maíusculo
 * Também foi utilizado a função toLowerCase() para deixar tudo em minúsculo
