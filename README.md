@@ -25,5 +25,8 @@
 |----------|--------
 | byanca   |prazer em te conhecer byanca |
 
+![image](https://github.com/ByancaMatos01/javascript/assets/122841376/c9e7cafe-9dd0-4318-8df3-692f24f9a4d4)
+![image](https://github.com/ByancaMatos01/javascript/assets/122841376/b8b56a02-1f63-418c-8fab-b705c7994593)
+
 
     
