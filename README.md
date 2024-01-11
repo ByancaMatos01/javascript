@@ -39,6 +39,14 @@ mensagem explicativa, conforme exemplos. <br>
 * Foi utilizado a função toUpperCase() para deixar tudo em maíusculo
 * Também foi utilizado a função toLowerCase() para deixar tudo em minúsculo
 *  E a função length para contar as strings
+![image](https://github.com/ByancaMatos01/javascript/assets/122841376/b5e36642-d9fb-4711-a8bd-4dcb0f385993)
+
+# Exercicio 4 
+* Através do node.js aprendi a formatar numbers
+* toFixed()==> colocar valor nos conchetes para saber a quantidade de casa após a virgula
+* Junto com replace('.',',') troca o ponto pela virgula
+* E foi aprendido o comando tolocale('pt-Br', {style 'currency', currency: 'BL'}) para utilizar o estilo de moeda do pais
+  Infelizmente não possui foto este exercicio acabou a luz :(
 
 
 
