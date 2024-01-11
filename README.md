@@ -31,7 +31,7 @@ mensagem explicativa, conforme exemplos. <br>
 * Foi utilizado o comando de converter para number.parseInt()==> para inteiros
 *  Ou number.parseFloat()==> para números reais
 *  Também a formas simplificadas apenas utilizando Number()
-*  Para String utiliza-se String() ou toString()
+*  Para String utiliza-se String() ou toString() <br>
 ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/3dbeb1df-53db-40ea-854b-236e5eb6c123)
 
   
