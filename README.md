@@ -46,6 +46,9 @@ mensagem explicativa, conforme exemplos. <br>
 * toFixed()==> colocar valor nos conchetes para saber a quantidade de casa após a virgula
 * Junto com replace('.',',') troca o ponto pela virgula
 * E foi aprendido o comando tolocale('pt-Br', {style 'currency', currency: 'BL'}) para utilizar o estilo de moeda do pais
+
+  # DOM
+  *
  
 
 
