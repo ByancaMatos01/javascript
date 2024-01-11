@@ -15,7 +15,7 @@
 
     # Aula 2 **Manipualação de dados**
 
- # # *[Exercício 1 ](https://github.com/ByancaMatos01/javascript/blob/main/aula02/exerc01.html)*
+ # *[Exercício 1 ](https://github.com/ByancaMatos01/javascript/blob/main/aula02/exerc01.html)*
   * Utiliza var que é armazenar o dados através de uma váriavel, e concatena com uma mensagem de boas vindas
   * foi utilizado o comando window.prompt()
 
