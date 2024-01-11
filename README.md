@@ -16,7 +16,14 @@
     # Aula 2 **Manipualação de dados**
 
  # Exercicio 1
-  * Utiliza var que é armazenar o dados através de uma váriavel, e concatena com uma mensagem de boas vindas 
-  
+  * Utiliza var que é armazenar o dados através de uma váriavel, e concatena com uma mensagem de boas vindas
+  * foi utilizado o comando window.prompt()
+ 
+  ## Tabela de Dados
+
+| Entrada  | Saida  | 
+|----------|--------
+| byanca   |prazer em te conhecer byanca |
+
 
     
