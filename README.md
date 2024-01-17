@@ -88,6 +88,9 @@ mensagem explicativa, conforme exemplos. <br>
 * exercicio de soma usando javascript
  ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/42690cf9-f24b-43a4-a744-1119bac9cb97)
 
+# Condicionais em JS
+
+
 
 
 
