@@ -77,15 +77,16 @@ mensagem explicativa, conforme exemplos. <br>
 # *[Exercício 2 ](https://github.com/ByancaMatos01/javascript/blob/main/aula03/exerc2.html)*
 * Exercício de Função usando o click, mouseenter e mouseout
   ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/3a0ab37f-5092-4e04-92df-111a73be9d11)
-  * com click
+  * Com click
    ![2024-01-17](https://github.com/ByancaMatos01/javascript/assets/122841376/275e383f-16a8-4ea5-878f-a6593e810e7a)
   * Com mouseenter
-  ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/3674b574-babf-45db-b296-8a9cf6cd4191)
+  ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/3674b574-babf-45db-b296-8a9cf6cd4191) <br>
+  
   * Com mouseout
    ![2024-01-17 (2)](https://github.com/ByancaMatos01/javascript/assets/122841376/6111ca64-7d95-43f3-970c-bd273ce2c495)
   
 # *[Exercício 3 ](https://github.com/ByancaMatos01/javascript/blob/main/aula03/exerc3.html)*
-* exercicio de soma usando javascript
+* Exercicio de soma usando javascript
  ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/42690cf9-f24b-43a4-a744-1119bac9cb97)
 
 # Condicionais em JS
