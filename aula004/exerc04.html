@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qual é o seu pais </title>
+</head>
+<body>
+    <h1>Qual é o seu pais ?</h1>
+    <input type="text" name="pais" id="pais">
+    <input type="button" value="verificar" onclick="pesquisar()">
+    <div id="resp"></div>
+
+
+
+    <script>
+        function pesquisar(){
+            let pais = document.getElementById("pais").value
+            var  res=document.getElementById('resp')
+            if(pais=="Brasil"){
+                res.innerHTML=`Voce é do  <strong> ${pais} </strong>`
+                alert('Sambaaa')
+                }else{
+                    res.innerHTML+=`Voce não é BR </strong>`
+                    }
+                }
+    </script>
+</body>
+</html>
