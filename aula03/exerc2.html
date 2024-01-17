@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dom part 2</title>
+</head>
+<style>
+    div#area{
+        font: normal 20pt arial;
+        color: white;
+        background-color: rgb(15, 151, 106);
+      width: 300px;
+      height: 200px;
+      line-height: 200px;
+       text-align: center;
+    }
+
+</style>
+<body>
+    <div id="area" >
+        interaja....
+    </div>
+
+    <script>
+        
+        var a= window.document.getElementById('area')
+        
+        a.addEventListener('click',clicar)
+        a.addEventListener('mouseenter',entrar)
+        a.addEventListener('mouseout',sair)
+
+
+        function clicar(){
+             a.innerText= 'Tudo vai ficar bem' 
+             a.style.background ='black'
+        }
+        function entrar(){
+            a.innerText=' Não fique triste '
+            a.style.background ='red'
+        }
+
+        function sair(){
+            a.innerText = 'Vá se divertir!'
+            a.style.background ='orange'
+        }
+    </script>
+</body>
+</html>
