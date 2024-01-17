@@ -80,10 +80,7 @@ mensagem explicativa, conforme exemplos. <br>
   * Com click
    ![2024-01-17](https://github.com/ByancaMatos01/javascript/assets/122841376/275e383f-16a8-4ea5-878f-a6593e810e7a)
   * Com mouseenter
-  ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/3674b574-babf-45db-b296-8a9cf6cd4191) <br>
-  
-  * Com mouseout
-   ![2024-01-17 (2)](https://github.com/ByancaMatos01/javascript/assets/122841376/6111ca64-7d95-43f3-970c-bd273ce2c495)
+  ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/3674b574-babf-45db-b296-8a9cf6cd4191)
   
 # *[Exercício 3 ](https://github.com/ByancaMatos01/javascript/blob/main/aula03/exerc3.html)*
 * Exercicio de soma usando javascript
