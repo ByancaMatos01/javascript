@@ -76,13 +76,16 @@ mensagem explicativa, conforme exemplos. <br>
 
 # *[Exercício 2 ](https://github.com/ByancaMatos01/javascript/blob/main/aula03/exerc2.html)*
 * Exercício de Função usando o click, mouseenter e mouseout
+  <br>
   ![image](https://github.com/ByancaMatos01/javascript/assets/122841376/3a0ab37f-5092-4e04-92df-111a73be9d11)
   * Com click
    ![2024-01-17](https://github.com/ByancaMatos01/javascript/assets/122841376/275e383f-16a8-4ea5-878f-a6593e810e7a)
    * Com mouseenter
+     <br>
   ![2024-01-17 (1)](https://github.com/ByancaMatos01/javascript/assets/122841376/584025ef-4713-4d0f-ba22-ea43a792b363)
 
   * Com mouseout
+    <br>
   ![2024-01-17 (2)](https://github.com/ByancaMatos01/javascript/assets/122841376/877e13ac-bdf3-44c8-a92b-f8342636c400)
 
 # *[Exercício 3 ](https://github.com/ByancaMatos01/javascript/blob/main/aula03/exerc3.html)*
